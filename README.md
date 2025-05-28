@@ -87,33 +87,37 @@ tkinter :
 
 Python’s built-in library for creating graphical user interfaces (GUI).
 Used to build the login, registration, and message encryption windows.
----------------------------------------------------------------------------
+
 sqlite3 :
 
 Python’s built-in library for working with SQLite databases.
 Used to store encrypted usernames and passwords persistently.
----------------------------------------------------------------------------
+
 os :
 
 Provides a way to interact with the operating system.
 Used to check the existence of key and database files.
----------------------------------------------------------------------------
-cryptography.hazmat.primitives.asymmetric.rsa
+
+cryptography.hazmat.primitives.asymmetric.rsa :
+
 Part of the cryptography library for RSA key generation and encryption/decryption.
--------------------------------------------------------------------------------------
-cryptography.hazmat.primitives.asymmetric.padding
+
+cryptography.hazmat.primitives.asymmetric.padding :
+
 Provides padding schemes like OAEP used in RSA encryption for security.
--------------------------------------------------------------------------------------
-cryptography.hazmat.primitives.serialization
+
+cryptography.hazmat.primitives.serialization :
+
 Used for saving and loading RSA keys to/from files in PEM format.
--------------------------------------------------------------------------------------
-cryptography.hazmat.primitives.hashes
+
+cryptography.hazmat.primitives.hashes :
+
 Provides cryptographic hash functions like SHA256, used in padding schemes.
 
 ![image](https://github.com/user-attachments/assets/d82cc810-afd3-4c22-bee9-7c781fcf4c09)
 
 
--------------------------------------------------------------------------------------
+
 
 
 
