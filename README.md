@@ -41,6 +41,10 @@ These credentials are encrypted using the RSA public key.
 Encrypted credentials are saved as hex strings in the SQLite database.
 
 
+<img width="495" height="404" alt="image" src="https://github.com/user-attachments/assets/b685d3cf-6778-433b-8172-e3e80d8cbe28" />
+
+
+
 
 3. Login :
    
@@ -61,6 +65,7 @@ The encrypted message is shown as hex.
 
 The app can decrypt the message back to plaintext with the private key.
 
+<img width="615" height="526" alt="image" src="https://github.com/user-attachments/assets/92136027-5683-4f20-bb49-b95217c1d7d2" />
 
 
 
@@ -111,18 +116,6 @@ cryptography.hazmat.primitives.hashes :
 Provides cryptographic hash functions like SHA256, used in padding schemes.
 
 
-
-
-
-
-
-
-
-
-Encrypting Credentials Before Saving :        
-
-
-Decrypting Credentials During Login :
 
 
 Security Notes :
