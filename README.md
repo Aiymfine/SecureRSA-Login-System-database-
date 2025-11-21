@@ -79,6 +79,7 @@ RSA public key (encrypt data)
 
 RSA private key (decrypt data)
 
+<img width="436" height="244" alt="image" src="https://github.com/user-attachments/assets/555dea67-8ac1-409c-8418-6e098d0cb384" />
 
 
 
